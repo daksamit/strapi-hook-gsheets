@@ -1,0 +1,41 @@
+{
+  "name": "strapi-hook-gsheets",
+  "version": "0.0.1",
+  "description": "A hook to setup a Google Spreadsheet for the Strapi framework",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "sheet",
+    "hook",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "lib",
+  "dependencies": {
+    "google-spreadsheet": "^3.0.11"
+  },
+  "strapi": {
+    "isHook": true
+  },
+  "author": {
+    "name": "Dominik Aksamit",
+    "email": "daksamit@daksamit.pl",
+    "url": "https://github.com/daksamit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daksamit/strapi-hook-gsheets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daksamit/strapi-hook-gsheets/issues"
+  },
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo no test specified"
+  }
+}
