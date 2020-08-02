@@ -1,6 +1,6 @@
 {
   "name": "strapi-hook-gsheets",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A hook to setup a Google Spreadsheet for the Strapi framework",
   "homepage": "http://strapi.io",
   "keywords": [
