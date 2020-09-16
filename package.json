@@ -1,6 +1,6 @@
 {
   "name": "strapi-hook-gsheets",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A hook to setup a Google Spreadsheet for the Strapi framework",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "main": "lib",
   "dependencies": {
-    "google-spreadsheet": "^3.0.11"
+    "google-spreadsheet": "^3.0.13"
   },
   "strapi": {
     "isHook": true
